@@ -29,7 +29,6 @@
 #ifndef _CSVKIT_H_
 #define _CSVKIT_H_
 
-#import <CoreFoundation/CFString.h>
 #import <Foundation/NSObject.h>
 
 @class NSArray, NSData, NSDictionary, NSError, NSString;
