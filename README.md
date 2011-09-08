@@ -4,7 +4,7 @@ CSVKit is a comma-separated value (CSV) parser for Objective-C.
 
 Copyright &copy; 2011 Booyah, Inc.
 
-Jon Parise <jon@booyah.com>
+Jon Parise &lt;jon@booyah.com&gt;
 
 ## Overview
 
